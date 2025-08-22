@@ -1,4 +1,7 @@
 ---
+description: >-
+  These rules apply to ALL of Disc Realms Network, no matter the server, please
+  check the other rules for server-specfic rules.
 icon: book-open-cover
 ---
 
