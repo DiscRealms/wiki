@@ -7,60 +7,218 @@ icon: book-open-cover
 
 # General Rules
 
-### § 1 - Do not promote hate of any kind
+## § 1 - Hate Speech & Slurs
 
-Disc Realms Studios does not condone&#x20;
+#### § 1A
 
+Disc Realms Studios does not condone hate speech, harassment, or discrimination of any kind, including (but not limited to) racism, homophobia, transphobia, and more.
 
+#### § 1B
 
+Use of slurs, derogatory remarks, or targeted insults will result in action, ranging from warnings to permanent bans and Blacklist via MCBlacklist.
 
+#### § 1C
 
-1. **No Slurs or Hate Speech**
-   * Respect all players. Offensive language and hate speech are strictly prohibited.
-2. **Respect Others' Interests**
-   * Show understanding and avoid judging others for their likes and interests.
-3. **No Rule Loophole Exploits**
-   * Avoid finding or using loopholes in these rules to bypass consequences.
-4. **No Self-Promotion**
-   * Do not advertise personal content or services unless permitted by Admins.
-5. **No NSFW Content**
-   * Keep all chat and interactions safe for all ages.
-6. **No Spamming**
-   * Avoid repetitive messages and disruptive behavior in chat.
-7. **Hacking Prohibited (Freecam for Building Only)**
-   * Hacking is not tolerated. Freecam is allowed solely for building.
-8. **Restricted Exploration**
-   * Do not explore areas on the server without authorization.
-9. **No Sharing Private Information**
-   * Keep your own and others' private details secure and off the server.
-10. **Cross-Punishment with Discord**
-    * Minecraft server punishments will also apply to your Discord account.
-11. **No Threats**
-    * Threats of any nature are taken seriously and will be punished.
-12. **Moderate Swearing (Under 13 Welcome)**
-    * Excessive swearing is prohibited. The server is open to players under 13.
-13. **No Real-World Transactions for In-Game Items**
-    * Selling in-game items for real money is banned.
-    * **Allowed:** Player-to-player sales of ranks for in-game money.
-    * **Prohibited:** Scamming for ranks or any items (may result in a ban).
-14. **No Verbal Abuse of Staff or Members**
-    * Verbal harassment may lead to a mute, jail, or ban.
-15. **Admins & Owner Have Final Say on Bans**
-    * Ban decisions by Admins and the Owner are final.
-16. **Punishment Avoidance Prohibited**
-    * Attempting to avoid punishment will lead to stricter penalties.
-17. **No Impersonation of Staff**
-    * Do not pose as staff members or mislead others about your role.
-18. **Report Rule-Breakers**
-    * If you witness rule violations, report to staff immediately.
+Attempting to disguise hate speech through "jokes" or indirect language will still be punished.
 
-**Allowed Mods**
+## § 2 - Respect for All Players
 
-* **Performance Mods**: Optifine, Sodium, etc.
-* **Approved Clients**: Lunar, Badlion, Feather, Laby Mod. (You have a client you want to use? Ask us a question on Discord!)
-* **Visibility Mods**: Full-Bright, Xareo's Minimap & Worldmap, Shulkerbox Tooltip
-* **Building Mods**: Litematica, Schematica
-* **Perspective Mods**: Freecam (**ONLY for BUILDING PURPOSES, ask staff for other use**)
-* **Utility Mods**: Remove Loading Screen, Replay Mod (for recording evidence or content creation only)
+#### § 2A
 
-**Note:** This list may be updated; check with staff if you are unsure about a specific mod.
+All players are expected to treat each other with basic respect. Personal attacks, harassment, or toxic behavior are not tolerated.
+
+#### § 2B
+
+Respect other players’ interests and hobbies, even if you do not share them. Judgmental or dismissive comments will not be tolerated.
+
+#### § 2C
+
+Punishments may include temporary mutes, jails, or bans, depending on severity.
+
+## § 3 - Rule Exploits & Loopholes
+
+#### § 3A
+
+Players may not exploit vague wording, loopholes, or technicalities in these rules to avoid punishment.
+
+#### § 3B
+
+Staff reserve the right to enforce the spirit of the rules, even in cases not explicitly written.
+
+#### § 3C
+
+Attempting to abuse loopholes will result in harsher penalties.
+
+## § 4 - Self-Promotion & Advertising
+
+#### § 4A
+
+Unapproved advertising of personal servers, content, or services is prohibited.
+
+#### § 4B
+
+Promotion may only occur with explicit permission from an Admin or the Owner.
+
+#### § 4C
+
+Violation of this rule may result in message deletion, mutes, or bans depending on severity.
+
+## § 5 - NSFW & Inappropriate Content
+
+#### § 5A
+
+The server must remain safe for all ages. Excessive sexual or excessively violent content is strictly prohibited.
+
+#### § 5B
+
+This includes usernames, skins, builds, profile pictures, and chat messages.
+
+#### § 5C
+
+Breaking this rule may result in a mute or a ban without warning.
+
+## § 6 - Chat Conduct & Spam
+
+#### § 6A
+
+Spamming chat through excessive messages, characters, or disruptive behavior is prohibited.
+
+#### § 6B
+
+Excessive use of caps, repeated phrases, or “flooding” the chat will be treated as spam.
+
+#### § 6C
+
+Punishments may include warnings, mutes, or temporary bans.
+
+## § 7 - Privacy & Security
+
+#### § 7A
+
+Players may not share their own or others’ personal information (e.g., real names, addresses, phone numbers, social media, IPs).
+
+#### § 7B
+
+Any attempt to dox, blackmail, or expose private information will result in immediate permanent bans.
+
+#### § 7C
+
+Staff will never request private information. Always report suspicious activity.
+
+## § 8 - Cross-Punishment Enforcement
+
+#### § 8A
+
+Punishments on the Minecraft server extend to the Disc Realms Discord server, and vice versa.
+
+#### § 8B
+
+Players who are blacklisted or banned on one platform will be restricted across all Disc Realms platforms in some cases to ensure consistent enforcement and community safety.
+
+## § 9 - Threats & Violence
+
+#### § 9A
+
+Threats of any nature– whether real-world or in-game –are strictly prohibited.
+
+#### § 9B
+
+This includes death threats, doxxing threats, DDoS threats, or any other serious threat.
+
+#### § 9C
+
+All threats are taken seriously and will result in permanent bans.
+
+## § 10 - Swearing & Language
+
+#### § 10A
+
+Moderate swearing is allowed; however, excessive swearing or targeted profanity is prohibited.
+
+#### § 10B
+
+The server is open to players under 13; therefore, language must remain appropriate.
+
+#### § 10C
+
+Failure to follow this may result in warnings or mutes.
+
+## § 11 - Transactions & Scamming
+
+#### § 11A
+
+Real-world money transactions for in-game items or services are strictly prohibited.
+
+#### § 11B
+
+Player-to-player trades for ranks in exchange for in-game currency or items are allowed but must be fair.
+
+#### § 11C
+
+Scamming in player-to-player rank transactions will result in bans.
+
+#### § 11D
+
+Chargebacks or fraudulent payments for server purchases will result in bans.
+
+## § 12 - Respect Toward Staff
+
+#### § 12A
+
+Staff members must be treated with respect. Verbal abuse, harassment, or slander against staff will not be tolerated.
+
+#### § 12B
+
+Staff decisions are final unless overturned by the Owner or Admin.
+
+#### § 12C
+
+Abuse toward staff may result in immediate mutes, jail, or bans.
+
+## § 13 - Final Authority
+
+#### § 13A
+
+Admins and the Owner retain full power in all matters, including warns, mutes, and bans.
+
+#### § 13B
+
+These decisions are final and not subject to appeal if stated directly.
+
+## § 14 - Punishment Evasion
+
+#### § 14A
+
+Ban evasion, mute evasion, or using alternate accounts to bypass punishments is strictly prohibited.
+
+#### § 14B
+
+Evading punishments will result in longer or permanent bans on all accounts involved.
+
+## § 15 - Impersonation
+
+#### § 15A
+
+Players may not impersonate staff members or claim to hold positions of authority they do not have.
+
+#### § 15B
+
+This includes false tags, fake usernames, or misleading information.
+
+#### § 15C
+
+Impersonation will result in immediate action.
+
+## § 16 - Reporting Violations
+
+#### § 16A
+
+Players are encouraged to report rule violations directly to staff.
+
+#### § 16B
+
+False reports made maliciously will result in punishment for the reporter.
+
+#### § 16C
+
+All reports are investigated confidentially by staff.
