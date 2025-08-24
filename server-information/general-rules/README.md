@@ -7,6 +7,14 @@ icon: book-open-cover
 
 # General Rules
 
+### § 1 - Do not promote hate of any kind
+
+Disc Realms Studios does not condone&#x20;
+
+
+
+
+
 1. **No Slurs or Hate Speech**
    * Respect all players. Offensive language and hate speech are strictly prohibited.
 2. **Respect Others' Interests**
