@@ -213,12 +213,16 @@ Impersonation will result in immediate action.
 
 #### § 16A
 
-Players are encouraged to report rule violations directly to staff.
+Players are encouraged to report rule violations directly to [https://discrealms.net/report/](https://discrealms.net/report/).
 
 #### § 16B
 
-False reports made maliciously will result in punishment for the reporter.
+False reports made maliciously will result in punishment for the person making the report.
 
 #### § 16C
 
 All reports are investigated confidentially by staff.
+
+#### § 16D
+
+If you think you had an invalid reason for a ban or wish to request forgiveness, appeals can be made at [https://discrealms.net/appeals/](https://discrealms.net/appeals/).
