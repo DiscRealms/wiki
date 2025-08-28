@@ -21,6 +21,10 @@ Use of slurs, derogatory remarks, or targeted insults will result in action, ran
 
 Attempting to disguise hate speech through "jokes" or indirect language will still be punished.
 
+{% hint style="warning" %}
+We punish through McBlacklist, alongside a 1-week mute.
+{% endhint %}
+
 ## § 2 - Respect for All Players
 
 #### § 2A
@@ -62,6 +66,10 @@ Promotion may only occur with explicit permission from an Admin or the Owner.
 #### § 4C
 
 Violation of this rule may result in message deletion, mutes, or bans depending on severity.
+
+{% hint style="info" %}
+Towny allows Nation Owners to promote their Nation's advertisement to our forums as long as it follows the rules of Disc Realms.
+{% endhint %}
 
 ## § 5 - NSFW & Inappropriate Content
 
@@ -105,6 +113,10 @@ Any attempt to dox, blackmail, or expose private information will result in imme
 
 Staff will never request private information. Always report suspicious activity.
 
+{% hint style="danger" %}
+If anyone requests an OTP, password, or anything similar pretending to be Disc Realms Studios, please report it immediately.&#x20;
+{% endhint %}
+
 ## § 8 - Cross-Punishment Enforcement
 
 #### § 8A
@@ -114,6 +126,10 @@ Punishments on the Minecraft server extend to the Disc Realms Discord server, an
 #### § 8B
 
 Players who are blacklisted or banned on one platform will be restricted across all Disc Realms platforms in some cases to ensure consistent enforcement and community safety.
+
+{% hint style="info" %}
+Depending on the extent, we may not cross-punish on Discord unless it is strictly needed.
+{% endhint %}
 
 ## § 9 - Threats & Violence
 
@@ -161,6 +177,14 @@ Scamming in player-to-player rank transactions will result in bans.
 
 Chargebacks or fraudulent payments for server purchases will result in bans.
 
+{% hint style="danger" %}
+Filing fraudulent Chargebacks is illegal.
+{% endhint %}
+
+{% hint style="info" %}
+Scamming via Items/game money for other items/game money is defined within the in-game rules, depending on the server.
+{% endhint %}
+
 ## § 12 - Respect Toward Staff
 
 #### § 12A
@@ -184,6 +208,10 @@ Admins and the Owner retain full power in all matters, including warns, mutes, a
 #### § 13B
 
 These decisions are final and not subject to appeal if stated directly.
+
+{% hint style="warning" %}
+Disputes can be made on the website using the appeals form.
+{% endhint %}
 
 ## § 14 - Punishment Evasion
 
