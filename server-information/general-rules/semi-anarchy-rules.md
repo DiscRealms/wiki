@@ -17,11 +17,11 @@ Players are fully permitted to grief to their heart's content; however, they are
 \*Castle Defense allows griefing, for example.
 {% endhint %}
 
-## § 2 - Usage of Hacked Clients&#x20;
+## § 2 - Usage of Hacked Clients and Unfair Advantages.
 
 #### § 2A
 
-Players are not allowed to use Hacked Clients to a certain extent, as Disc Realms Semi-Anarchy may allow a select few features that are free to use — these include:
+Players are not allowed to use Hacked Clients or use unfair advantages to a certain extent, as Disc Realms Semi-Anarchy may allow a select few features that are free to use — these include:
 
 * Freecam (Modrinth Edition) - Can only be used for building purposes.
 * Baritone - Can only be used for Highway building.
@@ -29,6 +29,18 @@ Players are not allowed to use Hacked Clients to a certain extent, as Disc Realm
 * FullBright
 
 Disc Realms does not punish players in Semi-Anarchy if they have a hacked client open; however, if they are caught with cheats enabled that we have not allowed, they will be punished.
+
+#### § 2B
+
+Using software to create macros or automate tasks from your player is not allowed. Using physical objects or tools to automate tasks is also not allowed and considered a macro.
+
+#### § 2C
+
+You may not replicate existing exploits to give yourself an advantage is not allowed; this includes dupes, server glitches,  server command exploits, etc.
+
+#### § 2D
+
+Duping is considered an unfair advantage; any action done to dupe will be seriously punished.
 
 {% hint style="danger" %}
 Punishments range from 1 to 5 days up to a permanent ban.
