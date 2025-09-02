@@ -46,3 +46,18 @@ Duping is considered an unfair advantage; any action done to dupe will be seriou
 Punishments range from 1 to 5 days up to a permanent ban.
 {% endhint %}
 
+#### § 2E
+
+You may not boost your account in any way, which includes using alternative accounts that you have controlled or owned to receive benefits such as the starter money, extra money from voting, bypassing daily limits, afking in certain areas such as farms/teleportation spots, and joining towns for extra townblocks.&#x20;
+
+## § 3 - Usage of Machines
+
+Disc Realms Towny allows players to build redstone machines; however, there are some limitations on what you can build.
+
+#### § 3A
+
+In cases where a machine can generate lag to a large extent, you will be advised to only operate the machine during dead hours (<10 players). Ignoring this can lead to the machine being removed from the server.
+
+#### § 3B
+
+In cases where many chests will be needed, you are advised to use barrels instead, where possible, to minimize lag.

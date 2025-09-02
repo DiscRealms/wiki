@@ -46,9 +46,17 @@ Duping is considered an unfair advantage; any action done to dupe will be seriou
 Punishments range from 1 to 5 days up to a permanent ban.
 {% endhint %}
 
-## § 3 - In-Game Rank Sales
+## § 3 - Usage of Machines
+
+Disc Realms Semi-Anarchy allows players to build redstone machines; however, there are some limitations on what you can build.
 
 #### § 3A
+
+In cases where a machine can generate lag to a large extent, you will be advised to only operate the machine during dead hours (<10 players). Ignoring this can lead to the machine being removed from the server.
+
+## § 4 - In-Game Rank Sales
+
+#### § 4A
 
 Players are allowed to trade with each other to obtain in-game ranks through means of trade. Below are ways you can initiate such a trade:
 
@@ -58,19 +66,19 @@ Not Allowed:
 
 * Selling in-game items or cash in return for real-life money, items, or in-game items/cash/ranks of other servers or games.
 
-#### § 3B
+#### § 4B
 
 Scamming in trades of this type is protected. If an incident occurs, create a ticket, and we will resolve it with the proof provided; however, we do not insure items, ranks, and cash for illegal trades within the server.&#x20;
 
-## § 4 - Misleading New Players
+## § 5 - Misleading New Players
 
-#### § 3A
+#### § 5A
 
 You are not allowed to mislead new players on Disc Realms Semi-Anarchy; in such a case, you will be punished along with the punishments the new player has broken under your misleading information.
 
-## § 5 - Chat
+## § 6 - Chat
 
-#### § 5A
+#### § 6A
 
 You are not to spam or bypass chat filters in place; doing so will lead to immediate punishment depending on the severity. All chat rules from [General Rules](https://wiki.discrealms.net/server-information/general-rules#id-5-nsfw-and-inappropriate-content) apply.
 
