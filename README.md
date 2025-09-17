@@ -1,8 +1,8 @@
 ---
 description: >-
-  A alternative to the information listed on the website and in Discord. If you
-  wish you can use the Realmie AI bot to ask questions about this wiki through
-  the Discord, just say ``Hey Realmie, xxx``!
+  An alternative to the information listed on the website and in Discord. If you
+  wish, you can use the Realmie AI bot to ask questions about this wiki through
+  Discord, say ``Hey Realmie, xxx``!
 icon: wikipedia-w
 ---
 
