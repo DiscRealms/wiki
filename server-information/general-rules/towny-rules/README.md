@@ -28,7 +28,7 @@ Players are not allowed to use Hacked Clients or use unfair advantages to a cert
 * No Fog - Removes Fog
 * FullBright
 
-Disc Realms does punish players in Towny if they have a hacked client open, even with no hacks enabled, you will be punished.
+Disc Realms does punish players in Towny if they have a hacked client open, even if no hacks are enabled, you will still be punished.
 
 #### § 2B
 
@@ -36,7 +36,7 @@ Using software to create macros or automate tasks from your player is not allowe
 
 #### § 2C
 
-You may not replicate existing exploits to give yourself an advantage is not allowed; this includes dupes, server glitches,  server command exploits, etc.
+You may not replicate existing exploits to give yourself an advantage; this includes dupes, server glitches,  server command exploits, etc.
 
 #### § 2D
 
@@ -48,16 +48,16 @@ Punishments range from 1 to 5 days up to a permanent ban.
 
 #### § 2E
 
-You may not boost your account in any way, which includes using alternative accounts that you have controlled or owned to receive benefits such as the starter money, extra money from voting, bypassing daily limits, afking in certain areas such as farms/teleportation spots, and joining towns for extra townblocks.&#x20;
+You may not boost your account in any way, which includes using alternative accounts that you have controlled or owned to receive benefits such as the starter money, extra money from voting, bypassing daily limits, afking in specific areas such as farms/teleportation spots, and joining towns for extra townblocks.&#x20;
 
 ## § 3 - Usage of Machines
 
-Disc Realms Towny allows players to build redstone machines; however, there are some limitations on what you can build.
+Disc Realms Towny allows players to build redstone machines; however, there are limitations on what can be built.
 
 #### § 3A
 
-In cases where a machine can generate lag to a large extent, you will be advised to only operate the machine during dead hours (<10 players). Ignoring this can lead to the machine being removed from the server.
+In cases where a machine can generate lag to a significant extent, you will be advised to operate the machine only during dead hours (<10 players). Ignoring this can lead to the machine being removed from the server.
 
 #### § 3B
 
-In cases where many chests will be needed, you are advised to use barrels instead, where possible, to minimize lag.
+In cases where many chests will be needed, you should use barrels instead, where possible, to minimize lag.
