@@ -36,7 +36,7 @@ Using software to create macros or automate tasks from your player is not allowe
 
 #### § 2C
 
-You may not replicate existing exploits to give yourself an advantage is not allowed; this includes dupes, server glitches,  server command exploits, etc.
+You may not replicate existing exploits to give yourself an advantage; this includes dupes, server glitches,  server command exploits, etc.
 
 #### § 2D
 
@@ -48,17 +48,17 @@ Punishments range from 1 to 5 days up to a permanent ban.
 
 ## § 3 - Usage of Machines
 
-Disc Realms Semi-Anarchy allows players to build redstone machines; however, there are some limitations on what you can build.
+Disc Realms Semi-Anarchy allows players to build redstone machines; however, there are limitations on what can be created.
 
 #### § 3A
 
-In cases where a machine can generate lag to a large extent, you will be advised to only operate the machine during dead hours (<10 players). Ignoring this can lead to the machine being removed from the server.
+In cases where a machine can generate lag to a significant extent, you will be advised to operate the machine only during dead hours (<10 players). Ignoring this can lead to the machine being removed from the server.
 
 ## § 4 - In-Game Rank Sales
 
 #### § 4A
 
-Players are allowed to trade with each other to obtain in-game ranks through means of trade. Below are ways you can initiate such a trade:
+Players are allowed to trade with each other to obtain in-game ranks through trade. Below are ways you can initiate such a trade:
 
 * You may offer in-game items or cash for a Disc Realms Rank/Store Product and vice versa.
 
@@ -68,13 +68,13 @@ Not Allowed:
 
 #### § 4B
 
-Scamming in trades of this type is protected. If an incident occurs, create a ticket, and we will resolve it with the proof provided; however, we do not insure items, ranks, and cash for illegal trades within the server.&#x20;
+Scamming in trades of this type is protected. If an incident happens, please create a ticket, and we will resolve it based on the provided proof. However, we do not insure items, ranks, or cash for illegal trades within the server.&#x20;
 
 ## § 5 - Misleading New Players
 
 #### § 5A
 
-You are not allowed to mislead new players on Disc Realms Semi-Anarchy; in such a case, you will be punished along with the punishments the new player has broken under your misleading information.
+You must not mislead new players in Disc Realms Semi-Anarchy. If you do, you will face the same punishments as the new player affected by your misleading information.
 
 ## § 6 - Chat
 
