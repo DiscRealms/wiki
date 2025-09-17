@@ -25,7 +25,7 @@ If your appeal is denied and you still refuse to comply, staff may step in to en
 
 **§ 2 A**
 
-Towns and nations may only enforce laws if those laws are accessible in-game. Laws cannot exist only on Discord or external platforms. Examples of acceptable posting methods:
+Towns and nations may only enforce laws if those laws are accessible within the game. Laws cannot exist only on Discord or external platforms. Examples of acceptable posting methods:
 
 * A lectern with a written book.
 * Laws are posted on signs in a public area.
@@ -70,7 +70,7 @@ Breaking a server rule is handled by staff, not by towns. Town authorities must 
 
 **§ 4 A**
 
-Towns may also enforce laws against outsiders (non-residents) if the laws are fair and clearly posted, following the same standards as for residents.
+Towns may also enforce laws against outsiders (non-residents) if the rules are fair and clearly posted, following the same standards as for residents.
 
 **§ 4 B**
 
@@ -81,12 +81,12 @@ Recognized punishments for outsiders include:
 * Being permanently banned from becoming a resident
 
 {% hint style="danger" %}
-As an outlaw, being killed in the town where you are outlawed will lead to a 2-hour jail time. You cannot be attacked within the town you are outlawed in upon becoming an outlaw.
+As an outlaw, being killed in the town where you are outlawed will lead to a 2-hour jail time. You cannot be attacked within the town where you are an outlaw upon becoming one.
 {% endhint %}
 
 **§ 4 C**
 
-It is recommended that outsiders receive a warning first, as it can be that the outsider may not know the laws. Outlawing should be only used for repeat offenses or serious situations.
+It is recommended that outsiders receive a warning first, as they may not know the laws. Outlawing should be only used for repeat offenses or serious situations.
 
 ***
 
