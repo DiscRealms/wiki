@@ -1,7 +1,7 @@
 ---
 description: >-
-  These rules apply to ALL of Disc Realms Network, no matter the server, please
-  check the other rules for server-specfic rules.
+  These rules apply to ALL of Disc Realms Network, no matter the server. Please
+  check the other rules for server-specific rules.
 icon: book-open-cover
 ---
 
@@ -37,7 +37,7 @@ Respect other players’ interests and hobbies, even if you do not share them. J
 
 #### § 2C
 
-Punishments may include temporary mutes, jails, or bans, depending on severity.
+Punishments may include temporary mutes, jail time, or bans, depending on the severity.
 
 ## § 3 - Rule Exploits & Loopholes
 
@@ -68,7 +68,7 @@ Promotion may only occur with explicit permission from an Admin or the Owner.
 Violation of this rule may result in message deletion, mutes, or bans depending on severity.
 
 {% hint style="info" %}
-Towny allows Nation Owners to promote their Nation's advertisement to our forums as long as it follows the rules of Disc Realms.
+Towny allows Nation Owners to promote their Nation's advertisements on our forums, as long as they follow the rules of Disc Realms.
 {% endhint %}
 
 ## § 5 - NSFW & Inappropriate Content
@@ -103,7 +103,7 @@ Punishments may include warnings, mutes, or temporary bans.
 
 #### § 7A
 
-Players may not share their own or others’ personal information (e.g., real names, addresses, phone numbers, social media, IPs).
+Players may not share their own or others’ personal information (e.g., real names, addresses, phone numbers, social media accounts, IP addresses).
 
 #### § 7B
 
@@ -111,7 +111,7 @@ Any attempt to dox, blackmail, or expose private information will result in imme
 
 #### § 7C
 
-Staff will never request private information. Always report suspicious activity.
+Staff will never request private information. You can always report suspicious activity.
 
 {% hint style="danger" %}
 If anyone requests an OTP, password, or anything similar pretending to be Disc Realms Studios, please report it immediately.&#x20;
@@ -182,14 +182,14 @@ Filing fraudulent Chargebacks is illegal.
 {% endhint %}
 
 {% hint style="info" %}
-Scamming via Items/game money for other items/game money is defined within the in-game rules, depending on the server.
+Scamming via items or game money for other items/game money is defined within the in-game rules, depending on the server.
 {% endhint %}
 
 ## § 12 - Respect Toward Staff
 
 #### § 12A
 
-Staff members must be treated with respect. Verbal abuse, harassment, or slander against staff will not be tolerated.
+Staff members must be treated with respect and dignity. Verbal abuse, harassment, or slander against staff will not be tolerated.
 
 #### § 12B
 
@@ -207,7 +207,7 @@ Admins and the Owner retain full power in all matters, including warns, mutes, a
 
 #### § 13B
 
-These decisions are final and not subject to appeal if stated directly.
+These decisions are final and can't be appealed if stated directly.
 
 {% hint style="warning" %}
 Disputes can be made on the website using the appeals form.
