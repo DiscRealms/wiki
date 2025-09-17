@@ -10,15 +10,15 @@ description: >-
 
 **§ 1 A**
 
-It is important to determine if you can wage war on a nation or town. Wars against either without a Casus belli (Reason of War) can be declared if both sides are set to a non-neutral status (Can be checked using /t \<town> or /n \<nation>), if they are missing a "peaceful" or "neutral" status, you can freely declare war without a Casus belli.
+It is essential to determine if you can wage war on a nation or town. Wars against either without a Casus belli (Reason of War) can be declared if both sides are set to a non-neutral status (Can be checked using /t \<town> or /n \<nation>), if they are missing a "peaceful" or "neutral" status, you can freely declare war without a Casus belli.
 
 **§ 1 B**
 
 If a town or nation has a neutral status enabled, you can open a [support ticket](https://discord.gg/TynreNbA2m) in our Discord server to see if you are eligible to wage war against that town or nation (Casus belli is required in this case).&#x20;
 
-**§ 1 C**
+**§ 1**
 
-Below is a list of valid reasons (Casus belli) that can be used to disable a town or nation's neutral status if you wish to wage war against them:
+Below is a list of valid reasons (Casus belli) that can be used to turn off a town or nation's neutral status if you wish to wage war against them:
 
 * Griefed structure within your nation or outside it - This can be handled through server punishment, but if you wish, you can wage war instead, only if a higher up of the town or nation was the griefer.
 * Reclaim lost land in a previous war - Can be done via riots/civil war by townspeople of the lost town or nation\*
