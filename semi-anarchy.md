@@ -27,9 +27,7 @@ Semi-Anarchy (Moocraft-based) is a type of Semi-Anarchy that includes a Server S
 Semi-P2W Aspects:
 
 * Vanilla Kits for Rank Holders
-* Simple Commands such as /anvil, /workbench, and /enderchest\
-  \
-
+* Simple Commands such as /anvil, /workbench, and /enderchest
 
 The Horizon Community Standard Sheet: [https://docs.google.com/document/d/1Rd8vkKvpln6uhgO4XIUctWS5VkaxyZRc0h8Bb9GaxLI/](https://docs.google.com/document/d/1Rd8vkKvpln6uhgO4XIUctWS5VkaxyZRc0h8Bb9GaxLI/)
 {% endhint %}
