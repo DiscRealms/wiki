@@ -29,5 +29,9 @@ Semi-P2W Aspects:
 * Vanilla Kits for Rank Holders
 * Simple Commands such as /anvil, /workbench, and /enderchest
 
-The Horizon Community Standard Sheet: [https://docs.google.com/document/d/1Rd8vkKvpln6uhgO4XIUctWS5VkaxyZRc0h8Bb9GaxLI/](https://docs.google.com/document/d/1Rd8vkKvpln6uhgO4XIUctWS5VkaxyZRc0h8Bb9GaxLI/)
+The Horizon Community Standard Sheet:\
+[https://docs.google.com/document/d/1Rd8vkKvpln6uhgO4XIUctWS5VkaxyZRc0h8Bb9GaxLI/](https://docs.google.com/document/d/1Rd8vkKvpln6uhgO4XIUctWS5VkaxyZRc0h8Bb9GaxLI/)
+
+Minecraft MUG:\
+[https://minecraft.net/en-us/useage-guidelines](https://www.minecraft.net/en-us/usage-guidelines)
 {% endhint %}
