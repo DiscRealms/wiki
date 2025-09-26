@@ -1,14 +1,14 @@
 ---
-icon: city
+icon: house-chimney
 ---
 
 # Towny Rules
 
-## § 1 - Raiding & Griefing&#x20;
+## § 1 - Raiding & Griefing
 
 #### § 1A
 
-Players are not allowed to raid or grief builds\* in and outside towns. This includes destroying the environment, stealing from chests, and breaking or ruining buildings.&#x20;
+Players are not allowed to raid or grief builds\* in and outside towns. This includes destroying the environment, stealing from chests, and breaking or ruining buildings.
 
 {% hint style="info" %}
 \*Abandoned towns older than 10 days of their deletion, if they are in a ruined state, are allowed to be griefed for rebuilding purposes with permission from an <mark style="color:red;">Admin</mark> or <mark style="color:purple;">Owner</mark>.
@@ -36,7 +36,7 @@ Using software to create macros or automate tasks from your player is not allowe
 
 #### § 2C
 
-You may not replicate existing exploits to give yourself an advantage; this includes dupes, server glitches,  server command exploits, etc.
+You may not replicate existing exploits to give yourself an advantage; this includes dupes, server glitches, server command exploits, etc.
 
 #### § 2D
 
@@ -48,7 +48,7 @@ Punishments range from 1 to 5 days up to a permanent ban.
 
 #### § 2E
 
-You may not boost your account in any way, which includes using alternative accounts that you have controlled or owned to receive benefits such as the starter money, extra money from voting, bypassing daily limits, afking in specific areas such as farms/teleportation spots, and joining towns for extra townblocks.&#x20;
+You may not boost your account in any way, which includes using alternative accounts that you have controlled or owned to receive benefits such as the starter money, extra money from voting, bypassing daily limits, afking in specific areas such as farms/teleportation spots, and joining towns for extra townblocks.
 
 ## § 3 - Usage of Machines
 
