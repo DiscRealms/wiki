@@ -86,7 +86,7 @@ icon: gamepad-modern
   * Open a crafting bench anywhere. (Requires [<mark style="background-color:blue;">Legendary Rank</mark>](https://store.discrealms.net/))
 * **/cd create** '\<Song File>' '\<Disc Name>'
   * Aliases: n/a
-  * Create a music disc with a custom song file. (Requires [<mark style="background-color:blue;">Legendary Rank</mark>](https://store.discrealms.net/))
+  * Create a music disc with a custom song file. (Requires [<mark style="background-color:blue;">Legendary Rank</mark>](https://store.discrealms.net/) and [<mark style="color:$primary;">Simple Voice Chat Mod</mark>](https://modrinth.com/plugin/simple-voice-chat))
     * Open a Support Ticket in the Discord for music requests.
 * **/colors**
   * Aliases: n/a
