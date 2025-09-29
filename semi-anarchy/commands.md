@@ -6,7 +6,7 @@ icon: gamepad-modern
 # Commands
 
 {% hint style="info" %}
-**`<`` ``>`** - Required
+**`< >`** - Required
 
 **`[ ]`** - Optional
 {% endhint %}
@@ -19,9 +19,6 @@ icon: gamepad-modern
 * **/reply** \<message>
   * Aliases: **/r**
   * Reply to a message chain you have last replied to.
-* **/me** \<message>
-  * Aliases: n/a
-  * Displays a message with emphasis ([<mark style="color:$success;">Emerald Rank</mark>](https://store.discrealms.net/) or Higher)
 * **/discord** \[link]
   * Aliases: n/a
   * Get the Discord Invite link or link your Minecraft Account to the Discord Server.
@@ -49,9 +46,30 @@ icon: gamepad-modern
 * **/help**
   * Aliases: n/a
   * Get commands in-game.
+* /afk
+  * Aliases: n/a
+  * Toggles your AFK status while playing. (Requires [<mark style="background-color:$info;">Coal Rank</mark>](https://store.discrealms.net/) or Higher)
+* /hat
+  * Aliases: n/a
+  * Wear the item you are holding as a hat! (Requires [<mark style="color:$danger;">Iron Rank</mark>](https://store.discrealms.net/) or Higher)
 * **/kit** \<Kit Name>
   * Aliases: n/a
   * Get a kit respective to your current in-game rank. (Requires an eligible free rank or [paid rank from the store](https://store.discrealms.net/))
+* /playtime
+  * Aliases: n/a
+  * Get your current playtime on the server. (Requires [<mark style="color:$success;">Emerald Rank</mark>](https://store.discrealms.net/) or Higher)
+* /playtimetop
+  * Aliases: n/a
+  * Get the global leaderboard for the most playtime on the server. (Requires [<mark style="color:$success;">Emerald Rank</mark>](https://store.discrealms.net/) or Higher)
+* **/me** \<message>
+  * Aliases: n/a
+  * Displays a message with emphasis (Requires [<mark style="color:$success;">Emerald Rank</mark>](https://store.discrealms.net/) or Higher)
+* /stats
+  * Aliases: n/a
+  * Get your gameplay statistics. (Requires [<mark style="color:$success;">Emerald Rank</mark>](https://store.discrealms.net/) or Higher)
+* /seen \<Player Name>
+  * Aliases: n/a
+  * Get the time at which a player last logged on. (Requires [<mark style="color:blue;">Diamond Rank</mark>](https://store.discrealms.net/) or Higher)
 * **/enderchest**
   * Aliases: **/ec /ender**
   * Open your Enderchest anywhere.  (Requires [<mark style="color:blue;">Diamond Rank</mark>](https://store.discrealms.net/) or Higher)
@@ -64,7 +82,25 @@ icon: gamepad-modern
 * **/workbench**
   * Aliases: **/craft**
   * Open a crafting bench anywhere. (Requires [<mark style="background-color:blue;">Legendary Rank</mark>](https://store.discrealms.net/))
-* /
+* **/cd create** '\<Song File>' '\<Disc Name>'
+  * Aliases: n/a
+  * Create a music disc with a custom song file. (Requires [<mark style="background-color:blue;">Legendary Rank</mark>](https://store.discrealms.net/))
+    * Open a Support Ticket in the Discord for music requests.
+* /colors
+  * Aliases: n/a
+  * Get a list of color coding options available to use. (Requires [<mark style="background-color:blue;">Legendary Rank</mark>](https://store.discrealms.net/))
+* /glow \[Color]
+  * Aliases: n/a
+  * Set a glow effect around your player with your selected color. (Requires [<mark style="background-color:blue;">Legendary Rank</mark>](https://store.discrealms.net/))
+* /dye \<Color>
+  * Aliases: n/a
+  * Color held leather armor a hex code or a predefined option. (Requires [<mark style="background-color:blue;">Legendary Rank</mark>](https://store.discrealms.net/))
+
+```
+  - colors
+  - glow
+  - dye
+```
 
 ## § 2 - Teleportation Commands
 
@@ -74,7 +110,8 @@ icon: gamepad-modern
 * **/warp** \<warp name>
   * Aliases: n/a
   * Teleport to a server warp.
-    * `/warp grinder` Requires [<mark style="color:$success;">Emerald Rank</mark>](https://store.discrealms.net/) or Higher
+    * `/warp lounge` Requires [<mark style="color:$danger;">Iron Rank</mark>](https://store.discrealms.net/) or higher
+    * `/warp grinder` Requires [<mark style="color:$success;">Emerald Rank</mark>](https://store.discrealms.net/) or higher
 * **/tpa** \<player>
   * Aliases: n/a
   * Send a teleportation request to another player.
@@ -121,19 +158,4 @@ icon: gamepad-modern
   * Pay another player from your balance.
 * **/qsell**
   * Aliases: **/sellall**
-  * Sell all of the same item you are holding to the shop ([<mark style="color:blue;">Diamond Rank</mark> ](https://store.discrealms.net/)or Higher).
-
-
-
-```
-  - cd create
-  - playtime
-  - stats
-  - seen
-  - playtimetop
-  - colors
-  - glow
-  - dye
-  - afk
-  - hat
-```
+  * Sell all of the same items you are holding to the shop ([<mark style="color:blue;">Diamond Rank</mark> ](https://store.discrealms.net/)or Higher).
