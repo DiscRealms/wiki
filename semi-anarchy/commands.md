@@ -6,6 +6,8 @@ icon: gamepad-modern
 # Commands
 
 {% hint style="info" %}
+**Command variables enclosed in these may be required or optional.**
+
 **`< >`** - Required
 
 **`[ ]`** - Optional
@@ -46,28 +48,28 @@ icon: gamepad-modern
 * **/help**
   * Aliases: n/a
   * Get commands in-game.
-* /afk
-  * Aliases: n/a
-  * Toggles your AFK status while playing. (Requires [<mark style="background-color:$info;">Coal Rank</mark>](https://store.discrealms.net/) or Higher)
-* /hat
-  * Aliases: n/a
-  * Wear the item you are holding as a hat! (Requires [<mark style="color:$danger;">Iron Rank</mark>](https://store.discrealms.net/) or Higher)
 * **/kit** \<Kit Name>
   * Aliases: n/a
   * Get a kit respective to your current in-game rank. (Requires an eligible free rank or [paid rank from the store](https://store.discrealms.net/))
-* /playtime
+* **/afk**
+  * Aliases: n/a
+  * Toggles your AFK status while playing. (Requires [<mark style="background-color:$info;">Coal Rank</mark>](https://store.discrealms.net/) or Higher)
+* **/hat**
+  * Aliases: n/a
+  * Wear the item you are holding as a hat! (Requires [<mark style="color:$danger;">Iron Rank</mark>](https://store.discrealms.net/) or Higher)
+* **/playtime**
   * Aliases: n/a
   * Get your current playtime on the server. (Requires [<mark style="color:$success;">Emerald Rank</mark>](https://store.discrealms.net/) or Higher)
-* /playtimetop
+* **/playtimetop**
   * Aliases: n/a
   * Get the global leaderboard for the most playtime on the server. (Requires [<mark style="color:$success;">Emerald Rank</mark>](https://store.discrealms.net/) or Higher)
 * **/me** \<message>
   * Aliases: n/a
   * Displays a message with emphasis (Requires [<mark style="color:$success;">Emerald Rank</mark>](https://store.discrealms.net/) or Higher)
-* /stats
+* **/stats**
   * Aliases: n/a
   * Get your gameplay statistics. (Requires [<mark style="color:$success;">Emerald Rank</mark>](https://store.discrealms.net/) or Higher)
-* /seen \<Player Name>
+* **/seen** \<Player Name>
   * Aliases: n/a
   * Get the time at which a player last logged on. (Requires [<mark style="color:blue;">Diamond Rank</mark>](https://store.discrealms.net/) or Higher)
 * **/enderchest**
@@ -86,21 +88,15 @@ icon: gamepad-modern
   * Aliases: n/a
   * Create a music disc with a custom song file. (Requires [<mark style="background-color:blue;">Legendary Rank</mark>](https://store.discrealms.net/))
     * Open a Support Ticket in the Discord for music requests.
-* /colors
+* **/colors**
   * Aliases: n/a
   * Get a list of color coding options available to use. (Requires [<mark style="background-color:blue;">Legendary Rank</mark>](https://store.discrealms.net/))
-* /glow \[Color]
+* **/glow** \[Color]
   * Aliases: n/a
   * Set a glow effect around your player with your selected color. (Requires [<mark style="background-color:blue;">Legendary Rank</mark>](https://store.discrealms.net/))
-* /dye \<Color>
+* **/dye** \<Color>
   * Aliases: n/a
-  * Color held leather armor a hex code or a predefined option. (Requires [<mark style="background-color:blue;">Legendary Rank</mark>](https://store.discrealms.net/))
-
-```
-  - colors
-  - glow
-  - dye
-```
+  * Color held leather armor a hex code, or a predefined option. (Requires [<mark style="background-color:blue;">Legendary Rank</mark>](https://store.discrealms.net/))
 
 ## § 2 - Teleportation Commands
 
