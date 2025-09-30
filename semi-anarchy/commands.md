@@ -137,6 +137,26 @@ icon: gamepad-modern
 
 * **/clan** \[#]
   * Aliases: **/clans** \[#]
+* **/clan accept** \<name>
+  * Accept an invitation to a clan or alliance.
+* **/clan allies**
+  * Check the clan's alliances.
+* **/clan ally** \<clan>
+  * Request an alliance with another clan.
+* **/clan create** <3 Letter Name>
+  * Create a new clan.
+* **/clan demote** \<Player Name>
+  * Demote a member of your clan.
+* **/clan promote** \<Player Name>
+  * Promote a member of your clan.
+* **/clan info** \<Clan>
+  * Get information about a clan
+* **/clan stats**
+  * Get your clan's statistics.
+* **/clan invite** \<Player Name>
+  * Invite a player to your clan.
+* **/clan kick** \<Player Name>
+  * Kick a member of your clan.
 
 ## § 4 - Economy
 
@@ -154,4 +174,4 @@ icon: gamepad-modern
   * Pay another player from your balance.
 * **/qsell**
   * Aliases: **/sellall**
-  * Sell all of the same items you are holding to the shop ([<mark style="color:blue;">Diamond Rank</mark> ](https://store.discrealms.net/)or Higher).
+  * Sell all of the same items you are holding to the shop (Requires [<mark style="color:blue;">Diamond Rank</mark> ](https://store.discrealms.net/)or Higher).
