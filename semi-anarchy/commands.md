@@ -1,6 +1,6 @@
 ---
 description: This page contains all useable commands that be used on Semi-Anarchy.
-icon: gamepad-modern
+icon: terminal
 ---
 
 # Commands

@@ -14,4 +14,5 @@
 
 * [Semi-Anarchy](semi-anarchy/README.md)
   * [Commands](semi-anarchy/commands.md)
-* [Towny](towny.md)
+* [Towny](towny/README.md)
+  * [Commands](towny/commands.md)

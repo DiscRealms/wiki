@@ -7,7 +7,7 @@ icon: house-chimney
 
 # Towny
 
-<figure><img src=".gitbook/assets/image.png" alt="The currently used towny map – Eastern Hemisphere (Europe, Africa, Asia, Oceania)"><figcaption><p>The current Disc Realms Towny map as of Season 1 – Europe, Africa, Asia, and Oceania</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt="The currently used towny map – Eastern Hemisphere (Europe, Africa, Asia, Oceania)"><figcaption><p>The current Disc Realms Towny map as of Season 1 – Europe, Africa, Asia, and Oceania</p></figcaption></figure>
 
 ## Gamemode Information
 
