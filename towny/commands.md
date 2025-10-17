@@ -63,9 +63,27 @@ icon: terminal
   * Set a glow effect around your player with your selected color. (Requires [<mark style="background-color:blue;">Legendary Rank</mark>](https://store.discrealms.net/))
 * **/dye** \<Color>
   * Aliases: n/a
-  * Color held leather armor a hex code, or a predefined option. (Requires [<mark style="background-color:blue;">Legendary Rank</mark>](https://store.discrealms.net/))
+  * Color held leather armor a specific hex code or a predefined option. (Requires [<mark style="background-color:blue;">Legendary Rank</mark>](https://store.discrealms.net/))
 
-## § 2 - Teleportation Commands
+## § 2 - Towny Commands
+
+* **/town** \[Town Name or Other Listed Option] \[args]
+  * Aliases: **/t** \[Nation Name or Other Listed Option] \[args]
+  * Manage, teleport, or get info about your town or another town.
+* **/nation** \[Nation Name or Other Listed Option] \[args]
+  * Aliases: **/n** \[Nation Name or Other Listed Option] \[args]
+  * Manage, teleport, or get info about your nation or another nation.
+* **/quarters** \[args]
+  * Aliases: **/q** \[args]
+  * Manage, sell, or get info about a quarter you have access to, or create a new quarter as a plot/town owner.
+* **/plot** \[args]
+  * Aliases: **/p** \[args]
+  * Manage, sell, or get info about a plot you have access to, or create/set a new plot as a town owner.
+* **/eventwar** \[args]
+  * Aliases: n/a
+  * Manage Eventwar events or learn info about ongoing wars or the plugin itself.
+
+## § 3 - Teleportation Commands
 
 * **/spawn**
   * Aliases: n/a
@@ -94,8 +112,14 @@ icon: terminal
 * **/rtp**
   * Aliases: **/rt**
   * Randomly teleport to a location on the map (Can exclude further areas near the border)
+* **/t spawn** \[Town Name]
+  * Aliases: **/town spawn** \[Town Name]
+  * Teleport to your town's home block or another town's home block (Other towns must be part of your nation)
+* **/n spawn**
+  * Aliases: **/nation spawn**
+  * Teleport to your nation's capital city home block.
 
-## § 3 - Economy
+## § 4 - Economy
 
 * **/shop**
   * Aliases: n/a
